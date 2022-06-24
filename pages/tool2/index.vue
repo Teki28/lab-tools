@@ -1,6 +1,6 @@
 <template>
   <div>
-    tool2
+    <h2>Under development...</h2>
   </div>
 </template>
 

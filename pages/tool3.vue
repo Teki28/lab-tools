@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Tool3</h1>
+    <h2>Under development...</h2>
   </div>
 </template>
 
@@ -8,7 +8,6 @@
 export default {
   data () {
     return {
-
     }
   },
 

@@ -6,10 +6,10 @@
         <nuxt-link :to="{name:'index'}">Home</nuxt-link>
       </li>
       <li>
-        <nuxt-link :to="{name:'tool1'}">Tool1</nuxt-link>
+        <nuxt-link :to="{name:'tool1'}">DNA Quant</nuxt-link>
       </li>
       <li>
-        <nuxt-link :to="{name:'tool2' }">Tool2</nuxt-link>
+        <a href="https://teki28.github.io/todo/">To-do list</a>
       </li>
       <li>
         <nuxt-link :to="{name:'tool3' }">Tool3</nuxt-link>
