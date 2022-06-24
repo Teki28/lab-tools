@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tool2", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Flab-tools\u002F_nuxt\u002Fstatic\u002F1656040272",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftool3",config:{_app:{basePath:"\u002Flab-tools\u002F",assetsPath:"\u002Flab-tools\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"201ee36c"}}}}(null));
