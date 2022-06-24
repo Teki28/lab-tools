@@ -11,14 +11,14 @@
           </el-button>
         </div>
       </el-col>
-      <el-col :span="5">
+      <el-col :span="6">
         <div class="grid-content bg-purple btn2">
           <el-button type="success" round size="small" @click="routeTool2">
-            Tool2
+            Todo List
           </el-button>
         </div>
       </el-col>
-      <el-col :span="5">
+      <el-col :span="4">
         <div class="grid-content bg-purple btn3">
           <el-button type="primary" round size="small" @click="routeTool3">Tool3</el-button>
         </div>
